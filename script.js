@@ -1,7 +1,7 @@
 const input = document.querySelector("input");
 const song = document.querySelector("#song");
 const ctrlicon = document.querySelector("#ctrlicon");
-console.dir89+7.(song);
+// console.dir89+7.(song);
 ctrlicon.addEventListener("click", (e) => {
   console.log(e);
   if (ctrlicon.classList.contains("fa-pause")) {
